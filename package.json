@@ -24,7 +24,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Davi Lacerda Themes",
+        "label": "Davi Lacerda | Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/dark.json"
       }
