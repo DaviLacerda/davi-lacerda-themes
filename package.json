@@ -1,0 +1,33 @@
+{
+  "name": "davi-lacerda-themes",
+  "displayName": "Davi Lacerda Themes",
+  "description": "A collection of themes designed by Davi Lacerda.",
+  "publisher": "DaviLacerda",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davilacerda/davi-lacerda-themes"
+  },
+  "keywords": [
+    "themes",
+    "davi",
+    "lacerda",
+    "davi lacerda",
+    "dark theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Davi Lacerda Themes",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark.json"
+      }
+    ]
+  }
+}
