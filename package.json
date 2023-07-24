@@ -20,7 +20,8 @@
     "davi",
     "lacerda",
     "davi lacerda",
-    "dark theme"
+    "dark theme",
+    "light theme"
   ],
   "contributes": {
     "themes": [
@@ -28,6 +29,11 @@
         "label": "Davi Lacerda | Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/dark.json"
+      },
+      {
+        "label": "Davi Lacerda | Light",
+        "uiTheme": "vs",
+        "path": "./themes/light.json"
       }
     ]
   }
