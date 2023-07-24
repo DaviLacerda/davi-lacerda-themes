@@ -3,7 +3,7 @@
   "displayName": "Davi Lacerda Themes",
   "description": "A collection of themes designed by Davi Lacerda.",
   "publisher": "DaviLacerda",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.80.0"
   },
